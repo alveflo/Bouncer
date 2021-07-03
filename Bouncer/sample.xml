@@ -3,6 +3,7 @@
   <ItemGroup>
     <PackageReference Include="Sentry" Version="2.1.0" />
     <PackageReference Include="Sentry.AspNetCore" Version="2.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="8.0.1-beta4" />
   </ItemGroup>
 
   <PropertyGroup>
